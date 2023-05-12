@@ -117,11 +117,11 @@ export default {
   }],
   // page6部分
   page6: {
-    github: 'https://github.com/wttAndroid',
-    bili: '',
-    email: 'Mailto:1457321681@qq.com?Subject=邮箱标题&Body=邮箱内容！',
+    github: 'https://github.com/luoyunfa-250',
+    bili: 'https://space.bilibili.com/409756959',
+    email: 'Mailto:a3305587173@outlook.com?Subject=邮箱标题&Body=邮箱内容！',
     zhihu: '',
-    weixin: "<img style='width:120px' src='http://wttandroid.gitee.io/wttandroid.github.io/src/img/weix.jpg' alt='加载失败'>",
-    qq: "<img style='width:120px' src='http://wttandroid.gitee.io/wttandroid.github.io/src/img/qq.jpg' alt='加载失败'>"
+    weixin: "<img style='width:120px' src='http://wttandroid.gitee.io/luoyunfa-250.github.io/src/img/weix.jpg' alt='加载失败'>",
+    qq: "<img style='width:120px' src='http://wttandroid.gitee.io/luoyunfa-250.github.io/src/img/qq.jpg' alt='加载失败'>"
   }
 }
