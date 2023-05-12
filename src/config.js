@@ -33,58 +33,40 @@ export default {
   page4: {
     // 我的历程
     course: [{
-      date: '2020/9——至今', // 时间
+      date: '2021/9——至今', // 时间
       desc: { // 经历
-        title: '山西传媒学院',
-        list: ['山西省职业技能大赛web前端开发一等奖', '专升本上岸', '软件开发公司实习']
+        title: '广东省广州市增城区永宁街永新中学',
+        list: ['无']
       }
-    }, {
-      date: '2019/9——2020/9',
-      desc: {
-        title: '晋城职业技术学院',
-        list: ['学习前端语言', '构建页面 / 利用JS、CSS3等制作网站，vue有关项目', '维护508工作室','获得Web前段开发1+X证书','普通话二级甲等','国家励志奖学金']
-      }
-    }, {
-      date: '2018/9——2019/9',
-      desc: {
-        title: '晋城职业技术学院',
-        list: ['学习java语言', '利用Android、sql等制作app', '参加山西省职业院校移动互联技能大赛', '全国计算机等级二级证书', '国家励志奖学金']
+    },{
+      date: '2015/9——2021/9', // 时间
+      desc: { // 经历
+        title: '广东省广州市增城区永宁街镇泰小学',
+        list: ['无']
       }
     }],
     // 我的拓展技能掌握
     singlelist: [{
-      title: 'bootsrap',
+      title: 'java',
       text: '了解'
     }, {
-      title: 'Element-ui',
-      text: '掌握'
-    }, {
-      title: 'mint-ui',
-      text: '掌握'
-    }, {
-      title: 'scss',
+      title: 'python',
       text: '掌握'
     }],
     // 我的基本技能掌握
     proresslist: [{
-      title: 'HTML、CSS、SCSS',
+      title: 'python',
       value: '90%'
     }, {
-      title: 'JS、JQ',
-      value: '90%'
-    }, {
-      title: 'Vue',
-      value: '90%'
-    }, {
-      title: 'NodeJs',
-      value: '80%'
-    }, {
+      title: 'java',
+      value: '70%'
+    },  {
       title: 'sql',
-      value: '80%'
+      value: '40%'
     }]
   },
   // page5部分
-  page5: [{
+  page5: [/*{
     title: '508工作室',
     content: '晋城职业技术学院508工作室独立站点的维护',
     image: 'box1.png',
@@ -114,7 +96,7 @@ export default {
     content: 'Android二维码生成器',
     image: 'box6.jpeg',
     href: ''
-  }],
+  }*/],
   // page6部分
   page6: {
     github: 'https://github.com/luoyunfa-250',
