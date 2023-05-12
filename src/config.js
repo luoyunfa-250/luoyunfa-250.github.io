@@ -99,7 +99,7 @@ export default {
   }*/
     {
     title: '聊天室',
-    content: '晋城职业技术学院508工作室独立站点的维护',
+    content: '无',
     image: 'box1.png',
     href: 'https://github.com/luoyunfa-250/liaotianshi'}
   ],
