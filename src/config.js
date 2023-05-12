@@ -96,7 +96,8 @@ export default {
     content: 'Android二维码生成器',
     image: 'box6.jpeg',
     href: ''
-  }*/{
+  }*/
+    {
     title: '聊天室',
     content: '晋城职业技术学院508工作室独立站点的维护',
     image: 'box1.png',
